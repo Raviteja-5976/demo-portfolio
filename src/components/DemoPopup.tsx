@@ -139,7 +139,7 @@ export default function DemoPopup() {
               }}
             >
               <a
-                href="https://workshop.devtrackacademy.com/workshops/build-your-portfolio"
+                href="https://workshop.devtrackacademy.com/workshops/professional-level-frontend-with-vibecoding"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="neo-btn neo-btn-mint"
